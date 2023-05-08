@@ -3,7 +3,7 @@
     * СЕРВЕР * = vlapa = 20221127 - 20230417
     v.016
 
-    test
+    test2
 */
 #include <Arduino.h>
 #include <OneWire.h>
